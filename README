@@ -6,3 +6,7 @@ Lav kode der kan visse alle vores navne.
 Vær mellem i gruppen skal lave en del af koden, for derefter at pushe denne kode til github.
 
 Jeg fatter hat af det her projekt <(")
+Vores ide er at skabe en kalender som også fungere som en todo liste. Det betyder at vi skal lave en kalender hvor man kan klikke på hver dag
+og skrive en liste over hvad man skal. Det der gør at den ændre sig fra en normal kalender, er at man kan fjerne det man har gjort så man 
+får overskud over hvad man mangler. Det er vigtigt for at at lave et pleasing design som giver brugeren lyst til at bruge det og på samme tid let
+nok så man ikke går død i den.
